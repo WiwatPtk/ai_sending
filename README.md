@@ -1,2 +1,2 @@
-# as_sending
+# ai_sending
 AI Implement
